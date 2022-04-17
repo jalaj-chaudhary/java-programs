@@ -1,4 +1,4 @@
-public class xii_loops {
+public class loops {
     public static void main(String args[])
     {
         int i;
@@ -28,8 +28,8 @@ public class xii_loops {
 // 8
 // 9
 // 10
+// 11
 // 12
 // 13
 // 14
 // 15
-// 16
